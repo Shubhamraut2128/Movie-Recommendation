@@ -2,8 +2,6 @@
 
 2️⃣ Project Description
 
-Brief explanation of what the project does.
-
 What problem it solves
 
 What the model predicts
